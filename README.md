@@ -16,21 +16,21 @@ Discover time-based sales trends
 
 📂Dataset Overview
 
-Column Name	Description
-invoice_id	Unique ID for each transaction
-Branch	Walmart branch
-City	City of transaction
-category	Product category
-unit_price2	Price per unit
-quantity	Units sold
-date	Transaction date
-time	Transaction time
-payment_method	Payment method
-rating	Customer rating
-profit_margin	Profit margin (%)
-transaction_amt	Total transaction amount
-profit_amt	Total profit
-
+| Column Name      | Description |
+|-----------------|------------|
+| invoice_id      | Unique ID for each transaction |
+| Branch          | Walmart branch |
+| City            | City of transaction |
+| category        | Product category |
+| unit_price2     | Price per unit |
+| quantity        | Units sold |
+| date            | Transaction date |
+| time            | Transaction time |
+| payment_method  | Payment method |
+| rating          | Customer rating |
+| profit_margin   | Profit margin (%) |
+| transaction_amt | Total transaction amount |
+| profit_amt      | Total profit |
 📊 Key Analysis & Insights
 
 🏬 Branch & City Insights
