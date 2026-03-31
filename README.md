@@ -31,6 +31,8 @@ Discover time-based sales trends
 | profit_margin   | Profit margin (%) |
 | transaction_amt | Total transaction amount |
 | profit_amt      | Total profit |
+
+
 📊 Key Analysis & Insights
 
 🏬 Branch & City Insights
